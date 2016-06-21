@@ -1,0 +1,13 @@
+{
+  "name": "introduce-redux-saga",
+  "version": "1.0.0",
+  "description": "a briefly introduce about redux-saga",
+  "scripts": {
+    "deploy": "cp ./intro-redux-saga.html ./public/index.html && gh-pages -d public"
+  },
+  "author": "chiara yen",
+  "license": "ISC",
+  "devDependencies": {
+  	"gh-pages": "^0.11.0"
+  }
+}
